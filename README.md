@@ -33,3 +33,25 @@ Alt listeler yapmak için * veya - altına in ve tab tuşuna bas.
   *   Alt Liste Elemanı
 *   Liste Elemanı
 *   Liste Elemanı
+
+
+# Tablolar
+
+| Ürünlerin Numaraları| Ürün Açıklaması| Ürünlerin Fiyatı|
+| :--- | :---: | ---: |
+| 1 | Açıklama | Fiyatı |
+
+# Bağlantı ve Resim Eklemek
+<a> etiketi yerine => []()
+ 
+ [my twitter account](https://twitter.com/arjinalbay)
+ 
+ # Bağlantı resimleri
+ 
+  başlarına ! işareti bırak. ![]() 
+ 
+  # Alıntı
+ 
+ metinin başına > 
+ 
+ > merhaba nasılsın 
